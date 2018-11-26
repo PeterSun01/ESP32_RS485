@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "motorctl.h": "c",
+        "led.h": "c",
+        "e2prom.h": "c",
+        "task.h": "c",
+        "freertos.h": "c",
+        "esp_log.h": "c",
+        "cmath": "c",
+        "localcalculation.h": "c",
+        "gpio.h": "c",
+        "wallkey.h": "c",
+        "rtcusr.h": "c",
+        "fire.h": "c",
+        "wind.h": "c"
+    }
+}
