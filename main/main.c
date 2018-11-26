@@ -6,7 +6,7 @@
 
 
 #include "RS485.h"
-//static void RS485_test_task(void* arg);
+
 
 static void RS485_test_task(void* arg)
 {
